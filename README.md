@@ -1,7 +1,8 @@
-Project of [Programming Hero](https://web.programming-hero.com/home) [AI Model Hub Assets](https://github.com/faisal-shohag/ai-model-hub-assets)
+Project of [Programming Hero](https://github.com/faisal-shohag/ai-model-hub-assets)
 
-## 🚀 Live Demo
-[AI Model Hub](https://your-live-site-link.com)
+### Live Demo
+
+[AI Model Hub](https://tanjiyajuthi.github.io/ai-model-hub-practice-task/)
 
 ### Generating Fake Data: Prompt
 
@@ -19,15 +20,19 @@ Generate a JSON array of AI tools/products with the following structure:
 ---
 
 ## Clone the repository
-git clone https://github.com/username/project-name.git
+
+git clone https://github.com/tanjiyaJuthi/ai-model-hub-practice-task
 
 ## Go to project folder
+
 cd project-name
 
 ## Install dependencies
+
 npm install
 
 ## Run the project
+
 npm start
 
 OR (if using Vite):

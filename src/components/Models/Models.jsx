@@ -18,7 +18,7 @@ const Models = ({
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-10 mt-10 mb-10">
                 {
                     models.map(model => <ModelCard
-                        key={model.id} 
+                        
                         model={model} 
                         cart={cart} 
                         setCart={setCart} 
